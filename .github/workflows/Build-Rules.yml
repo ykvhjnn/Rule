@@ -1,0 +1,40 @@
+name: Build Rules
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Build_Rules:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      # 并行构建规则
+      - name: Build All Rules
+        run: |
+          bash .github/script/build-rules.sh Ad
+          bash .github/script/build-rules.sh Proxy
+          bash .github/script/build-rules.sh Directfix
+      # 自动提交并推送
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 🚀 CI Updated
+
+      # 清理旧的 workflow 运行
+      - name: Delete old workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 3

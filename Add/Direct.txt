@@ -1,0 +1,12 @@
+cn.bing.com
+live.com
+jsdelivr.net
+gh-proxy.com
+outlook.com
+edge.microsoft.com
+challenges.cloudflare.com
+login.microsoftonline.com
+account.microsoft.com
+bing.com.cn
+bingagencyawards.com
+ipv4dns.com
