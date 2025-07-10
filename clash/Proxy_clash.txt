@@ -865,6 +865,7 @@ DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
 DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,adguard-mail.com
 DOMAIN-SUFFIX,adguard-vpn.com
@@ -6304,8 +6305,10 @@ DOMAIN-SUFFIX,cloudcredibility.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare.tv
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,cloudflare-esni.com
+DOMAIN-SUFFIX,cloudflare-gateway.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cloudflareaccess.com
@@ -6316,6 +6319,7 @@ DOMAIN-SUFFIX,cloudflareok.com
 DOMAIN-SUFFIX,cloudflarepartners.com
 DOMAIN-SUFFIX,cloudflareportal.com
 DOMAIN-SUFFIX,cloudflarepreview.com
+DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflaressl.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestorage.com
@@ -8921,6 +8925,7 @@ DOMAIN-SUFFIX,desktopmovies.net
 DOMAIN-SUFFIX,desktopmovies.org
 DOMAIN-SUFFIX,dessci.com
 DOMAIN-SUFFIX,destinationbim.com
+DOMAIN-SUFFIX,www.destinationurl.com
 DOMAIN-SUFFIX,destroy-china.jp
 DOMAIN-SUFFIX,detaliczny.com
 DOMAIN-SUFFIX,detentiongirls.com
@@ -13269,6 +13274,7 @@ DOMAIN-SUFFIX,google-access.net
 DOMAIN-SUFFIX,google-syndication.com
 DOMAIN-SUFFIX,googleacquisitionmigration.com
 DOMAIN-SUFFIX,clickserver.googleads.com
+DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis-cn.com
@@ -13314,6 +13320,7 @@ DOMAIN-SUFFIX,googlesile.com
 DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,googlestore.com
 DOMAIN-SUFFIX,googlesverige.com
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googleventures.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -14362,8 +14369,6 @@ DOMAIN-SUFFIX,hkzone.org
 DOMAIN-SUFFIX,hlbelygl.com
 DOMAIN-SUFFIX,hlcollege.ac.uk
 DOMAIN-SUFFIX,hlg.ac.uk
-DOMAIN-SUFFIX,hlive.com
-DOMAIN-SUFFIX,hlive.io
 DOMAIN-SUFFIX,hlnsc.ac.uk
 DOMAIN-SUFFIX,hlsp1.pw
 DOMAIN-SUFFIX,hm.com
@@ -23826,6 +23831,7 @@ DOMAIN-SUFFIX,puppiesofourtime.ac.uk
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,pureconcepts.net
+DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,pureinsight.org
 DOMAIN-SUFFIX,purelov5.com
 DOMAIN-SUFFIX,purelyceleb.com
@@ -24685,8 +24691,6 @@ DOMAIN-SUFFIX,rocketbbs.com
 DOMAIN-SUFFIX,rocketcdn.me
 DOMAIN-SUFFIX,rocketfishproducts.com
 DOMAIN-SUFFIX,rockettube.com
-DOMAIN-SUFFIX,rockmods.com
-DOMAIN-SUFFIX,rockmods.net
 DOMAIN-SUFFIX,rocksdb.com
 DOMAIN-SUFFIX,rocksdb.net
 DOMAIN-SUFFIX,rocksdb.org

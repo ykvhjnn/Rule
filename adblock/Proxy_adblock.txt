@@ -865,6 +865,7 @@
 ||adguard.info^
 ||adguard.io^
 ||adguard.org^
+||adguard-dns.com^
 ||adguard-dns.io^
 ||adguard-mail.com^
 ||adguard-vpn.com^
@@ -6304,8 +6305,10 @@
 ||cloudflare.com^
 ||cloudflare.net^
 ||cloudflare.tv^
+||cloudflare-dns.com^
 ||cloudflare-ech.com^
 ||cloudflare-esni.com^
+||cloudflare-gateway.com^
 ||cloudflare-ipfs.com^
 ||cloudflare-quic.com^
 ||cloudflareaccess.com^
@@ -6316,6 +6319,7 @@
 ||cloudflarepartners.com^
 ||cloudflareportal.com^
 ||cloudflarepreview.com^
+||cloudflareresolve.com^
 ||cloudflaressl.com^
 ||cloudflarestatus.com^
 ||cloudflarestorage.com^
@@ -8921,6 +8925,7 @@
 ||desktopmovies.org^
 ||dessci.com^
 ||destinationbim.com^
+||www.destinationurl.com^
 ||destroy-china.jp^
 ||detaliczny.com^
 ||detentiongirls.com^
@@ -13269,6 +13274,7 @@
 ||google-syndication.com^
 ||googleacquisitionmigration.com^
 ||clickserver.googleads.com^
+||googleadservices.com^
 ||googleapis.cn^
 ||googleapis.com^
 ||googleapis-cn.com^
@@ -13314,6 +13320,7 @@
 ||googlesource.com^
 ||googlestore.com^
 ||googlesverige.com^
+||googletagmanager.com^
 ||googleusercontent.com^
 ||googleventures.com^
 ||googlevideo.com^
@@ -14362,8 +14369,6 @@
 ||hlbelygl.com^
 ||hlcollege.ac.uk^
 ||hlg.ac.uk^
-||hlive.com^
-||hlive.io^
 ||hlnsc.ac.uk^
 ||hlsp1.pw^
 ||hm.com^
@@ -23826,6 +23831,7 @@
 ||pure18.com^
 ||pureapk.com^
 ||pureconcepts.net^
+||puredns.org^
 ||pureinsight.org^
 ||purelov5.com^
 ||purelyceleb.com^
@@ -24685,8 +24691,6 @@
 ||rocketcdn.me^
 ||rocketfishproducts.com^
 ||rockettube.com^
-||rockmods.com^
-||rockmods.net^
 ||rocksdb.com^
 ||rocksdb.net^
 ||rocksdb.org^
