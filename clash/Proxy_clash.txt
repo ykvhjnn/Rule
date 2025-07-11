@@ -832,6 +832,7 @@ DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp
 DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp
 DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp
 DOMAIN-SUFFIX,ntp-tk02.ocn.ad.jp
+DOMAIN-SUFFIX,speedtest.ot01.zaq.ad.jp
 DOMAIN-SUFFIX,ad69.com
 DOMAIN-SUFFIX,ada.ac.uk
 DOMAIN-SUFFIX,bybit.ada.support
@@ -1306,6 +1307,7 @@ DOMAIN-SUFFIX,aldinhe.ac.uk
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexanderlondoncollege.ac.uk
 DOMAIN-SUFFIX,alexanderstreet.com
+DOMAIN-SUFFIX,speedtest.alexf.cc
 DOMAIN-SUFFIX,alexlur.org
 DOMAIN-SUFFIX,alfera.com.hk
 DOMAIN-SUFFIX,alfera.in
@@ -7750,6 +7752,7 @@ DOMAIN-SUFFIX,esn1speedtest.turktelekom.com.tr
 DOMAIN-SUFFIX,gay1speedtest.turktelekom.com.tr
 DOMAIN-SUFFIX,gun1speedtest.turktelekom.com.tr
 DOMAIN-SUFFIX,izm1speedtest.turktelekom.com.tr
+DOMAIN-SUFFIX,kay1speedtest.turktelekom.com.tr
 DOMAIN-SUFFIX,sam1speedtest.turktelekom.com.tr
 DOMAIN-SUFFIX,uls1speedtest.turktelekom.com.tr
 DOMAIN-SUFFIX,umr1speedtest.turktelekom.com.tr
@@ -18548,6 +18551,7 @@ DOMAIN-SUFFIX,mastercardservices.com
 DOMAIN-SUFFIX,mastercardworldwide.com
 DOMAIN-SUFFIX,masterclass.com
 DOMAIN-SUFFIX,masterintelligence.com
+DOMAIN-SUFFIX,speedtest.masteritsupport.com
 DOMAIN-SUFFIX,masterpassteststore.com
 DOMAIN-SUFFIX,mastersprojects.ac.uk
 DOMAIN-SUFFIX,mastodon.cloud
@@ -20682,6 +20686,7 @@ DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,netlifystatus.com
 DOMAIN-SUFFIX,speed.netlixor.de
+DOMAIN-SUFFIX,speed2.netlixor.de
 DOMAIN-SUFFIX,netlock.hu
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,netme.cc
@@ -28818,6 +28823,7 @@ DOMAIN-SUFFIX,tuidang.se
 DOMAIN-SUFFIX,tuitwit.com
 DOMAIN-SUFFIX,tukaani.org
 DOMAIN-SUFFIX,tukif.com
+DOMAIN-SUFFIX,st0.dal.tularosa.net
 DOMAIN-SUFFIX,sp.tulipgroup.io
 DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,tumblr.co

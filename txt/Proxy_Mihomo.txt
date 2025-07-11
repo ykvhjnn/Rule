@@ -832,6 +832,7 @@
 +.ntp-os01.ocn.ad.jp
 +.ntp-tk01.ocn.ad.jp
 +.ntp-tk02.ocn.ad.jp
++.speedtest.ot01.zaq.ad.jp
 +.ad69.com
 +.ada.ac.uk
 +.bybit.ada.support
@@ -1306,6 +1307,7 @@
 +.alexa.com
 +.alexanderlondoncollege.ac.uk
 +.alexanderstreet.com
++.speedtest.alexf.cc
 +.alexlur.org
 +.alfera.com.hk
 +.alfera.in
@@ -7750,6 +7752,7 @@
 +.gay1speedtest.turktelekom.com.tr
 +.gun1speedtest.turktelekom.com.tr
 +.izm1speedtest.turktelekom.com.tr
++.kay1speedtest.turktelekom.com.tr
 +.sam1speedtest.turktelekom.com.tr
 +.uls1speedtest.turktelekom.com.tr
 +.umr1speedtest.turktelekom.com.tr
@@ -18548,6 +18551,7 @@
 +.mastercardworldwide.com
 +.masterclass.com
 +.masterintelligence.com
++.speedtest.masteritsupport.com
 +.masterpassteststore.com
 +.mastersprojects.ac.uk
 +.mastodon.cloud
@@ -20682,6 +20686,7 @@
 +.netlify.com
 +.netlifystatus.com
 +.speed.netlixor.de
++.speed2.netlixor.de
 +.netlock.hu
 +.netmarble.com
 +.netme.cc
@@ -28818,6 +28823,7 @@
 +.tuitwit.com
 +.tukaani.org
 +.tukif.com
++.st0.dal.tularosa.net
 +.sp.tulipgroup.io
 +.tumbex.com
 +.tumblr.co
