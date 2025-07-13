@@ -7996,7 +7996,6 @@ DOMAIN-SUFFIX,foxsports.com.ve
 DOMAIN-SUFFIX,intel.com.ve
 DOMAIN-SUFFIX,mastercard.com.ve
 DOMAIN-SUFFIX,nvidia.com.ve
-DOMAIN-SUFFIX,petardashd.com.ve
 DOMAIN-SUFFIX,pornovenezolano.com.ve
 DOMAIN-SUFFIX,youtube.com.ve
 DOMAIN-SUFFIX,visa.com.vi
@@ -20613,6 +20612,7 @@ DOMAIN-SUFFIX,hst.net.tw
 DOMAIN-SUFFIX,mymusic.net.tw
 DOMAIN-SUFFIX,fetnt1.seed.net.tw
 DOMAIN-SUFFIX,fetzl1.seed.net.tw
+DOMAIN-SUFFIX,seednet-tc1.seed.net.tw
 DOMAIN-SUFFIX,seednet-ty1.seed.net.tw
 DOMAIN-SUFFIX,so-net.net.tw
 DOMAIN-SUFFIX,custom.tbcnet.net.tw
@@ -20637,6 +20637,7 @@ DOMAIN-SUFFIX,netbig.com
 DOMAIN-SUFFIX,speedtest.netcalibre.net
 DOMAIN-SUFFIX,netcolony.com
 DOMAIN-SUFFIX,speedtest.netcrawler.ca
+DOMAIN-SUFFIX,stbarrie.netcrawler.ca
 DOMAIN-SUFFIX,stbrampton.netcrawler.ca
 DOMAIN-SUFFIX,stetobicoke.netcrawler.ca
 DOMAIN-SUFFIX,stguelph.netcrawler.ca
@@ -24454,6 +24455,7 @@ DOMAIN-SUFFIX,refah-bank.ir
 DOMAIN-SUFFIX,referer.us
 DOMAIN-SUFFIX,reflectivecode.com
 DOMAIN-SUFFIX,reform-apple.com
+DOMAIN-SUFFIX,speedtest-msk.refoxcloud.xyz
 DOMAIN-SUFFIX,refrain.ac.uk
 DOMAIN-SUFFIX,regard.ac.uk
 DOMAIN-SUFFIX,regener8.ac.uk
@@ -24707,6 +24709,8 @@ DOMAIN-SUFFIX,test-ipv6.roedu.net
 DOMAIN-SUFFIX,roehampton.ac.uk
 DOMAIN-SUFFIX,roehampton-online.ac.uk
 DOMAIN-SUFFIX,roffeypark.ac.uk
+DOMAIN-SUFFIX,stbarrie.rogers.com
+DOMAIN-SUFFIX,stbarriewireless.rogers.com
 DOMAIN-SUFFIX,stbrampton.rogers.com
 DOMAIN-SUFFIX,stbrantford.rogers.com
 DOMAIN-SUFFIX,stbrantfordwireless.rogers.com
@@ -24746,6 +24750,7 @@ DOMAIN-SUFFIX,ststratford.rogers.com
 DOMAIN-SUFFIX,ststratfordwireless.rogers.com
 DOMAIN-SUFFIX,ststthomas.rogers.com
 DOMAIN-SUFFIX,ststthomaswireless.rogers.com
+DOMAIN-SUFFIX,stsudburywireless.rogers.com
 DOMAIN-SUFFIX,stsurreywireless.rogers.com
 DOMAIN-SUFFIX,stthunderbaywireless.rogers.com
 DOMAIN-SUFFIX,sttoronto.rogers.com
@@ -28770,6 +28775,7 @@ DOMAIN-SUFFIX,tube4sex.com
 DOMAIN-SUFFIX,tube4world.com
 DOMAIN-SUFFIX,tube8.com
 DOMAIN-SUFFIX,tube8.fr
+DOMAIN-SUFFIX,tube8zoo.com
 DOMAIN-SUFFIX,tube911.com
 DOMAIN-SUFFIX,tubebdsm.com
 DOMAIN-SUFFIX,tubecaptain.com
@@ -29880,6 +29886,7 @@ DOMAIN-SUFFIX,viacbs.com
 DOMAIN-SUFFIX,viacom.com
 DOMAIN-SUFFIX,viacomcbs.com
 DOMAIN-SUFFIX,viacomcbspressexpress.com
+DOMAIN-SUFFIX,st2.speedtest.vianet.ca
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,speedtest.viberlink.net
 DOMAIN-SUFFIX,vica.info

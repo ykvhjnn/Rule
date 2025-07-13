@@ -7996,7 +7996,6 @@ foxsports.com.ve
 intel.com.ve
 mastercard.com.ve
 nvidia.com.ve
-petardashd.com.ve
 pornovenezolano.com.ve
 youtube.com.ve
 visa.com.vi
@@ -20613,6 +20612,7 @@ hst.net.tw
 mymusic.net.tw
 fetnt1.seed.net.tw
 fetzl1.seed.net.tw
+seednet-tc1.seed.net.tw
 seednet-ty1.seed.net.tw
 so-net.net.tw
 custom.tbcnet.net.tw
@@ -20637,6 +20637,7 @@ netbig.com
 speedtest.netcalibre.net
 netcolony.com
 speedtest.netcrawler.ca
+stbarrie.netcrawler.ca
 stbrampton.netcrawler.ca
 stetobicoke.netcrawler.ca
 stguelph.netcrawler.ca
@@ -24454,6 +24455,7 @@ refah-bank.ir
 referer.us
 reflectivecode.com
 reform-apple.com
+speedtest-msk.refoxcloud.xyz
 refrain.ac.uk
 regard.ac.uk
 regener8.ac.uk
@@ -24707,6 +24709,8 @@ test-ipv6.roedu.net
 roehampton.ac.uk
 roehampton-online.ac.uk
 roffeypark.ac.uk
+stbarrie.rogers.com
+stbarriewireless.rogers.com
 stbrampton.rogers.com
 stbrantford.rogers.com
 stbrantfordwireless.rogers.com
@@ -24746,6 +24750,7 @@ ststratford.rogers.com
 ststratfordwireless.rogers.com
 ststthomas.rogers.com
 ststthomaswireless.rogers.com
+stsudburywireless.rogers.com
 stsurreywireless.rogers.com
 stthunderbaywireless.rogers.com
 sttoronto.rogers.com
@@ -28770,6 +28775,7 @@ tube4sex.com
 tube4world.com
 tube8.com
 tube8.fr
+tube8zoo.com
 tube911.com
 tubebdsm.com
 tubecaptain.com
@@ -29880,6 +29886,7 @@ viacbs.com
 viacom.com
 viacomcbs.com
 viacomcbspressexpress.com
+st2.speedtest.vianet.ca
 viber.com
 speedtest.viberlink.net
 vica.info
